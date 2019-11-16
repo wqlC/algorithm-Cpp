@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1573281295 source:d:\codefiles\c++learn\最多不相交区间\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572790599 source:d:\codefiles\c++learn\backtracknqueen\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572769038 source:d:\codefiles\c++learn\permutation3\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	<algorithm>
+

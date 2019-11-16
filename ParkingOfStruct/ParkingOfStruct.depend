@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1572700837 source:d:\codefiles\c++learn\parkingofstruct\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<cstring>
+
