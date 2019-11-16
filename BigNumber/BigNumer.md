@@ -137,3 +137,11 @@ struct bigNum divide(struct bigNum a, int b){
     }
 }
 ```
+[大数加法/减法c++实现](https://github.com/wqlC/algorithm-Cpp/blob/master/BigNumber/bigAdd.cpp)
+<https://github.com/wqlC/algorithm-Cpp/blob/master/BigNumber/bigAdd.cpp>
+
+[大数乘法c++实现](https://github.com/wqlC/algorithm-Cpp/blob/master/BigNumber/bigMulti.cpp)
+<https://github.com/wqlC/algorithm-Cpp/blob/master/BigNumber/bigMulti.cpp>
+
+[大数除法c++实现](https://github.com/wqlC/algorithm-Cpp/blob/master/BigNumber/bigDivide.cpp)
+<https://github.com/wqlC/algorithm-Cpp/blob/master/BigNumber/bigDivide.cpp>
